@@ -125,3 +125,9 @@ body {
 .project-description-wrapper {
 
 }
+
+/* About Page Styles */
+.about-text-wrapper {
+  padding-left: 30px;
+  padding-right: 700px; /* TODO: get rid of this when I make two-column grid */
+}
