@@ -1,3 +1,3 @@
-# my_website
+# My Website
 
-This is my attempt at making a website
+This is my attempt at making a website for my resume.
